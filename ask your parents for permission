@@ -1,0 +1,7 @@
+age = input(input("Enter your age"))
+if age < 13:
+    print("You're to yound to play this, go away")
+elif age <18:
+print ("please ask for parent permission")
+else:
+print ("Welcome to the game")
